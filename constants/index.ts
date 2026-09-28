@@ -251,7 +251,7 @@ export const FOOTER_DATA = [
       {
         name: 'YouTube',
         icon: FaYoutube,
-        link: 'https://youtube.com/developermazed',
+        link: 'https://youtube.com/@developermazed',
       },
       {
         name: 'GitHub',
