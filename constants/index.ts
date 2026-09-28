@@ -92,17 +92,17 @@ export const SOCIALS = [
   {
     name: 'Instagram',
     icon: RxInstagramLogo,
-    link: 'https://instagram.com/ablmazed',
+    link: 'https://instagram.com/developermazed',
   },
   {
     name: 'Facebook',
     icon: FaFacebook,
-    link: 'https://facebook.com/ablmazed',
+    link: 'https://facebook.com/mazed88',
   },
   {
     name: 'Twitter',
     icon: RxTwitterLogo,
-    link: 'https://twitter.com/ablmazed',
+    link: 'https://twitter.com/mazed88',
   },
 ] as const
 
@@ -251,12 +251,12 @@ export const FOOTER_DATA = [
       {
         name: 'YouTube',
         icon: FaYoutube,
-        link: 'https://youtube.com/ablmazed',
+        link: 'https://youtube.com/developermazed',
       },
       {
         name: 'GitHub',
         icon: RxGithubLogo,
-        link: 'https://github.com/ablmazed',
+        link: 'https://github.com/developermazed',
       },
       {
         name: 'Discord',
@@ -271,17 +271,17 @@ export const FOOTER_DATA = [
       {
         name: 'Instagram',
         icon: RxInstagramLogo,
-        link: 'https://instagram.com/ablmazed',
+        link: 'https://instagram.com/developermazed',
       },
       {
         name: 'Twitter',
         icon: RxTwitterLogo,
-        link: 'https://twitter.com/ablmazed',
+        link: 'https://twitter.com/mazed88',
       },
       {
         name: 'Linkedin',
         icon: RxLinkedinLogo,
-        link: 'https://linkedin.com/ablmazed',
+        link: 'https://www.linkedin.com/in/mazed88/',
       },
     ],
   },
@@ -323,5 +323,5 @@ export const NAV_LINKS = [
 ] as const
 
 export const LINKS = {
-  sourceCode: 'https://github.com/ablmazed/ablmazed',
+  sourceCode: 'https://github.com/developermazed',
 }
